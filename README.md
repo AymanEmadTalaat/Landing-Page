@@ -1,0 +1,1 @@
+-- This is a basic Landing Page from the web masters internship
